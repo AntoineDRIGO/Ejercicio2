@@ -1,2 +1,2 @@
 # Ejercicio2
-exercice 2
+https://antoinedrigo.github.io/Ejercicio2/
